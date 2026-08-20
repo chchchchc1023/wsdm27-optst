@@ -1,0 +1,32 @@
+# Operating-system and editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Local configuration
+.env
+*.local
+
+# Datasets, generated profiles, and local language models
+CIKM20-NETE-Datasets/
+data/
+models/
+*.pkl
+*.jsonl
+
+# Training artifacts
+OptST/pretrained/
+OptST/exp/
+*.pt
+*.pth
+*.ckpt
+*.log

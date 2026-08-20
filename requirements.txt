@@ -1,0 +1,9 @@
+# OptST — Python 3.10
+torch
+transformers
+sentence-transformers
+accelerate
+scikit-learn
+pandas
+numpy
+tqdm
